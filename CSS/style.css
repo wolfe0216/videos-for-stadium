@@ -1,0 +1,88 @@
+.hero-image {
+  text-align: center;
+  font-size: 50px;
+  border-style: none;
+  padding-top: 60px;
+  padding-right: 15px;
+  padding-bottom: 80px;
+  padding-left: 15px;
+  color: white;
+  background-image: url("../images/commonwealth.jpg");
+}
+.hero-image h1{
+  font-family: 'freshman';
+  font-size: 60px;
+  color: white;
+}
+@font-face{
+  font-family: 'freshman';
+  src: url('../fonts/freshman.ttf');
+}
+.button:hover {
+    box-shadow: 0 12px 16px 0 rgba(0,0,0,0.24), 0 17px 50px 0 rgba(0,0,0,0.19);
+}
+
+.banner {
+  text-align: center;
+  font-size: 15px;
+  min-height: 18px;
+  background-color: white;
+  color: #0033a0;
+  font-family: 'freshman';
+}
+
+.artists {
+  padding-top: 30px;
+  text-decoration: underline;
+
+  min-height: 750px;
+}
+.artists h1{
+    font-size: 30px;
+    font-family: 'freshman';
+}
+.info-images {
+  text-align: center;
+  min-height: 260px;
+  padding-bottom: 15px;
+}
+
+.info p {
+  background-color: white;
+  padding: 6px;
+}
+
+.parking h1 {
+  text-decoration: underline;
+  font-size: 30px;
+  font-family: 'freshman';
+
+}
+.parking-image {
+  text-align: center;
+  min-height: 370px;
+}
+
+.social-media {
+  text-align: center;
+  font-size: 15px;
+  min-height: 125px;
+  background-color: #0033a0;
+  color: white;
+  padding-bottom: 15px;
+}
+.social-media img {
+  padding-right: 20px;
+}
+
+.sponsors {
+  padding-top: 20px;
+  text-align: center;
+  min-height: 175px;
+}
+.sponsors img {
+  padding-top: 10px;
+  padding-right: 20px;
+}
+
+/* Insert Slideshow styling here */

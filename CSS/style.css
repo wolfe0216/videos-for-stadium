@@ -10,12 +10,12 @@
   background-image: url("../images/commonwealth.jpg");
 }
 .hero-image h1{
-  font-family: 'freshman';
+  font-family: 'Freshman';
   font-size: 60px;
   color: white;
 }
 @font-face{
-  font-family: 'freshman';
+  font-family: 'Freshman';
   src: url('../fonts/Freshman.ttf');
 }
 .button:hover {
@@ -28,7 +28,7 @@
   min-height: 18px;
   background-color: white;
   color: #0033a0;
-  font-family: 'freshman';
+  font-family: 'Freshman';
 }
 
 .artists {
@@ -37,7 +37,7 @@
 }
 .artists h1{
     font-size: 30px;
-    font-family: 'freshman';
+    font-family: 'Freshman';
       text-decoration: underline;
 }
 .info-images {
@@ -54,7 +54,7 @@
 .parking h1 {
   text-decoration: underline;
   font-size: 30px;
-  font-family: 'freshman';
+  font-family: 'Freshman';
 
 }
 .parking-image {

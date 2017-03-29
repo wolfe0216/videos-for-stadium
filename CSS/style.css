@@ -33,13 +33,12 @@
 
 .artists {
   padding-top: 30px;
-  text-decoration: underline;
-
-  min-height: 750px;
+  min-height: 650px;
 }
 .artists h1{
     font-size: 30px;
     font-family: 'freshman';
+      text-decoration: underline;
 }
 .info-images {
   text-align: center;

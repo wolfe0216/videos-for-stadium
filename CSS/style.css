@@ -8,6 +8,9 @@
   padding-left: 15px;
   color: white;
   background-image: url("../images/commonwealth.jpg");
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: 100%;
 }
 .hero-image h1{
   font-family: 'Freshman';
